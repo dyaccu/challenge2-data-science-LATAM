@@ -116,3 +116,9 @@ Transforma los datos en información estratégica y ayuda a **Telecom X** a redu
 **Autor**: Alura Cursos  
 **Repositorio**: [challenge2-data-science-LATAM](https://github.com/ingridcristh/challenge2-data-science-LATAM)  
 **Licencia**: MIT
+
+## 🛡️ Insignia
+
+La realización y entrega de este proyecto otorgó una exclusiva insignia:
+
+![Badge Challenge TelecomX Analisis Evasión Clientes - Alura](https://cdn1.gnarususercontent.com.br/6/409126/007f0f58-5970-4133-94b8-9af2551f2ab2.png)
